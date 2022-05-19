@@ -13,4 +13,3 @@
 7. git checkout <existing_branchname>
 8. git checkout -b <non_existing_branchname>
 9. git merge <exixting_other_branch>
-10. git "some other command"
