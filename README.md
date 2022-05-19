@@ -9,3 +9,6 @@
     > `git commit -m "your descriptive message"` - COMMIT
     > `git push origin `<branch_name>` - PUSH
 5. You can pull the remote changes with `git pull [origin <branch name>]`
+6. git branch
+7. git checkout <existing-branchname>
+8. git checkout -b <non-existing-branchname>
