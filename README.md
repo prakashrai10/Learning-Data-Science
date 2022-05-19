@@ -12,3 +12,4 @@
 6. git branch
 7. git checkout <existing-branchname>
 8. git checkout -b <non-existing-branchname>
+9. git merge <exixting other branch>
